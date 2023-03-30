@@ -9,5 +9,5 @@
   <img  width = "55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div><br>
   
-  [![lucasdonascimentoo](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdonascimentoo&theme=dark)](https://github.com/lucasdonascimentoo/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdonascimentoo)](https://github.com/lucasdonascimentoo/github-readme-stats)
   
