@@ -1,6 +1,7 @@
 ### Eae, meu nome é Lucas 👋
 
-[![card](https://github-readme-stats.vercel.app/api?username=lucasdonascimentoo&show_icons=true&theme=dark)](https://github.com/lucasdonascimentoo/)
+[![lucasdonascimentoo](https://github-readme-stats.vercel.app/api?username=lucasdonascimentoo)](https://github.com/lucasdonascimentoo/github-readme-stats&hide=contribs,prs&count_private=true&show_icons=true&theme=dark)
+
 
 ## 🖥️Linguagens que mais utilizo:
 <div style= " display: inline; margin: 10px;">
